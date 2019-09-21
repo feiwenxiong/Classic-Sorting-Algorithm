@@ -6,3 +6,4 @@ Several Classic Sorting Algorithm
 4. Quick Sort
 5. Merge Sort
 6. Counting Sort
+7. Heap Sort
