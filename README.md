@@ -7,4 +7,5 @@ Several Classic Sorting Algorithm
 5. Merge Sort
 6. Counting Sort
 7. Heap Sort
-* 8. Order Selection
+
+8. Order Selection
