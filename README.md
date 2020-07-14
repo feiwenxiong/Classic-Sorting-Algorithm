@@ -9,3 +9,5 @@ Several Classic Sorting Algorithm
 7. Heap Sort
 
 8. Order Selection
+
+gif for sorting algorithm
