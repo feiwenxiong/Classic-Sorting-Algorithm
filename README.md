@@ -10,4 +10,5 @@ Several Classic Sorting Algorithm
 
 8. Order Selection
 
-gif for sorting algorithm
+reference link of GIF for sorting algorithm:
+https://blog.csdn.net/yushiyi6453/article/details/76407640
